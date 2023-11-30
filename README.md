@@ -1,2 +1,2 @@
 # timer
-A basic website that helps you set a tmer
+Before installing make sure you have a browser better than internet explorer
